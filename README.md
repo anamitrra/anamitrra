@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anamitrra
 - 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning JavaScript    
+- 🌱 I’m currently learning Flutter  
 - 💞️ I’m looking to collaborate on Web Dev. Projects
 - 📫 How to reach me https://www.instagram.com/anku_2487
 
