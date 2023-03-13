@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anamitrra
 - 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning Laravel and React  
+- 🌱 I’m currently learning ReactJS  
 - 💞️ I’m looking to collaborate on Web Dev. Projects
 - 📫 How to reach me vijayanamitrra@gmail.com
 
